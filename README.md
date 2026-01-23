@@ -7,7 +7,7 @@ The rapid growth of vehicular traffic and urbanization has resulted in a massive
 accident-related data that cannot be efficiently processed using traditional data analysis 
 techniques. CrashSense: Intelligent Accident Hotspot Analytics aims to leverage Big 
 Data Analytics to analyze large-scale road accident datasets and identify accident-prone 
-locations, commonly referred to as accident hotspots.
+locations, commonly referred to as accident hotspots. 
 
 To identify accident hotspots, spatial aggregation and density-based analysis techniques are 
 applied to detect regions with high accident concentration. Furthermore, machine learning 
