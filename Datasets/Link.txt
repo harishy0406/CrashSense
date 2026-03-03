@@ -2,7 +2,6 @@
 US Accidents (2019–2025) – Kaggle  
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents 
 
-
 2. Open Government Accident Data (US) : 
 NHTSA Traffic Safety Data (Crash data by state) 
 https://www.nhtsa.gov/research-data  
