@@ -22,3 +22,5 @@ technologies can be used to enhance road safety planning and decision-making. Th
 proposed system can assist traffic authorities, urban planners, and policymakers in 
 optimizing resource allocation, improving road infrastructure, and ultimately reducing 
 accident rates and fatalities.
+
+
