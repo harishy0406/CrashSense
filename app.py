@@ -343,7 +343,7 @@ def render_sidebar():
         <div style="text-align:center;padding:12px 0 20px">
           <span style="font-size:2.5rem">🚨</span>
           <h2 style="color:#f1f5f9;margin:4px 0 0;font-size:1.3rem;font-weight:800">CrashSense</h2>
-          <p style="color:#64748b;font-size:0.78rem;margin:2px 0">Real-Time Risk Intelligence</p>
+          <p style="color:#64748b;font-size:0.78rem;margin:2px 0">Real-Time Risk Intelligent accident hotspot detection</p>
         </div>
         <hr style="border-color:rgba(255,255,255,0.06);margin-bottom:16px">
         """, unsafe_allow_html=True)
