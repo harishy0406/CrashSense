@@ -433,6 +433,8 @@ def main():
         if not os.path.exists(data_path):
             st.error(f"Data file not found:\n`{data_path}`\n\nPlease check the path in the sidebar.")
             st.stop()
+    
+    
 
         with st.spinner("⚙️ Loading & processing data…"):
             grid_base = _load_and_process_data(data_path, n_rows)
