@@ -21,7 +21,7 @@ FEATURE_COLS = [
     "Avg_Visibility",
     "Rain_Accidents",
     "Avg_Hour",
-]
+] 
 
 RISK_COLORS = {
     "High":   "#EF4444",   # red
