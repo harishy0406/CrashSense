@@ -419,6 +419,7 @@ def main():
         st.session_state.grid_sim  = None
     if "weather"   not in st.session_state:
         st.session_state.weather   = None
+    
 
     # ── Load model eagerly ──
     try:
